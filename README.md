@@ -1,4 +1,4 @@
 # notes_app
 A simple program for making notes. 
 
-This is a simple proggram that supports writing notes down, editing them, saving, reading and removing.
+This is a simple program that supports writing notes down, editing them, saving, reading and removing.
